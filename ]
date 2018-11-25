@@ -1,0 +1,11 @@
+Tirando o "Título da página"
+
+This reverts commit f5003b1723f3d10803f1369544072f7aaeccddcb.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch desenvolvimento
+# Changes to be committed:
+#	modified:   HTML5Application1/public_html/index.html
+#
